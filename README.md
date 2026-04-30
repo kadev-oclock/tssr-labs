@@ -1,4 +1,4 @@
-# 🖧 TSSR Labs — Karim Rimk
+# 🖧 TSSR Labs — Karim.A
 
 > Technicien Supérieur Systèmes et Réseaux 
 
@@ -132,6 +132,6 @@ Réseau interne : `VMnet1` (Host-Only) `192.168.1.0/24` · Internet : `VMnet8` (
 **Karim Rimk** ·  Administrateur Systèmes & Réseaux · Paris . https://nekodigital.fr/
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karim%20Rimk-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/karim-a-a23816176/)
-[![GitHub](https://img.shields.io/badge/GitHub-rimk-181717?style=flat&logo=github)](https://github.com)
+[![GitHub](https://img.shields.io/badge/https://github.com/kadev-oclock?style=flat&logo=github)](https://github.com)
 
 > 💡 *Disponible fin juin 2026 — Île-de-France*
